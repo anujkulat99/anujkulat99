@@ -1,5 +1,3 @@
-[https://github.com/user-attachments/assets/fc3e00f6-01fc-419f-994e-f99481684583](https://github.com/anujkulat99/anujkulat99/issues/1#issue-2584061613)
-
 <h1>Hi, I'm Anuj! <br/><a href="https://github.com/SumitSakarkar08">Programmer</a>, <a href="https://github.com/SumitSakarkar08/">Data Science Professional</a></h1>
 
 <h2> Data Science and ML Projects:</h2>
