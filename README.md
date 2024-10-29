@@ -16,11 +16,11 @@
 - <b>Tensorflow on Google Cloud</b>
   - [Datacamp]()
 - <b>Power BI Certification</b>
-  - [Datacamp]()
+  - [Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/8b61e891a97910808a4ea86e35b35d9ea1befd6c?raw=1)
 - <b>SQL for Data Science</b>
   - [Datacamp]()
 - <b>Full Stack Development Course</b>
-  - [Datacamp]()
+  - [Seed Infotech,Pune India]()
 - <b>AWS Certified Data Analytics Certification</b>
   - [Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/ab9fefb81214f0cb60a906e9911a933a0fc79467?raw=1)
 - <b>Certificate_Applied Machine Learning Ensemble Learning</b>
