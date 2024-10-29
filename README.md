@@ -83,11 +83,9 @@ modeling.
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="sumit-sakarkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="potter_head_08 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anuj-kulat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[instagram]: https://www.instagram.com
-[linkedin]: https://www.linkedin.com
+[linkedin]: linkedin.com/in/anuj-data-analyst
 
 
 <!--
