@@ -22,7 +22,7 @@
 - <b>Full Stack Development Course</b>
   - [Datacamp]()
 - <b>AWS Certified Data Analytics Certification</b>
-  - [Datacamp]()
+  - [Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/ab9fefb81214f0cb60a906e9911a933a0fc79467?raw=1)
 - <b>Certificate_Applied Machine Learning Ensemble Learning</b>
   - [Linkedin Learning](https://www.linkedin.com/learning/certificates/ce25e3c17f005a67ddc28c85baa7bc87b050780dff1b9aed9547796ca453578c?trk=share_certificate)
 - <b>Ethical Hacking: Footprinting and Reconnaissance</b>
