@@ -27,6 +27,8 @@
   - [Linkedin Learning](https://www.linkedin.com/learning/certificates/ce25e3c17f005a67ddc28c85baa7bc87b050780dff1b9aed9547796ca453578c?trk=share_certificate)
 - <b>Ethical Hacking: Footprinting and Reconnaissance</b>
   - [Linkedin Learning](https://www.linkedin.com/learning/certificates/30b49c8ad3f024334bd4a94862cecc4698ff6df02cf9f0f8bc84c0177058cfd4?trk=share_certificate)
+- <b>Getting Started with AI and Machine Learning</b>
+  - [Linkedin Learning](https://www.linkedin.com/learning/certificates/c173a102349e2fd07d2de34580466370f66409c718992833d4f77a1093b416ef?trk=share_certificate) 
 
 <h2>Technical Skills & Certifications:</h2>
 
