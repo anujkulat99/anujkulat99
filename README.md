@@ -52,10 +52,27 @@
 <h2> Data Analysis Projects:</h2>
 
 - <b>Analyzing Breast Cancer</b>
-  - []()
-- <b>Sports Performance Analysis</b>
-- <b>Weather Data Analysis</b>
+  - Developed a machine learning model using Python (scikit-learn) to classify breast cancer as malignant or benign with 
+    over 92% accuracy.
+  - Conducted data preprocessing using Pandas, including handling missing values and feature scaling for improved model 
+    performance.
+  - Visualized key patterns and insights using Matplotlib and Seaborn to enhance interpretability for stakeholders.
+  - Automated the end-to-end pipeline using Jupyter Notebook, making it reusable for similar datasets.
 
+- <b>Sports Performance Analysis</b>
+  - Designed a data pipeline in Python to analyze player and team statistics, leveraging libraries like Pandas and NumPy 
+    for data manipulation.
+  - Created predictive models to forecast player performance, utilizing regression techniques to identify key factors 
+    influencing outcomes.
+  - Built interactive dashboards in Tableau to visualize insights, enabling dynamic exploration of match data by users.
+  - Integrated historical and real-time data sources, optimizing data storage and retrieval with SQL.
+
+- <b>Weather Data Analysis</b>
+  - Developed a weather analytics system to study historical trends and make future predictions using Python and public API 
+    data.
+  - Performed ETL operations, cleaning and transforming large datasets, ensuring 100% consistency for downstream tasks.
+  - Visualized temperature, precipitation, and weather patterns using Power BI, improving actionable insights for users.
+  - Implemented a linear regression model for temperature forecasting, achieving an R² score of 0.85.
 
 
 <h2> Programming experience:</h2>
